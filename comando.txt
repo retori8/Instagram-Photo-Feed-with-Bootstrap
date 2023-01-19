@@ -3,4 +3,13 @@
 3- ls-a
 4- ls-la
 5- clear
-6- 
+6- cat small-name/bigger-name-than-before/omg-this-folder-has-a-huuuuuuge-name-and-i-tired-to-type/this-is-probably-the-longest-folder-name-you-have-ever-seen-but-believe--im-sure-there-are-other-folder-bigger-than-this-one-because-people-sometimes-like-to-assign-huge-names-to-their-personal-stuff-supercalifragilisticexpialidocious/trophy.txt
+7- cd funcode ; ls -la *.js
+8- cd the-most-funny; mkdir not-that-funny
+9- find /workspace/exercise-terminal-challenge/ -name the-mostboring-text.txt | cp /workspace/exercise-terminal-challenge/thecmdchallenge/boringfolder/event-more-boring/i-can-believe-how-boring/the-ulrimate-boring-inception/the-mostboring-text.txt /workspace/exercise-terminal-challenge/thecmdchallenge/boringfolder/lol.txt
+10- find /workspace/exercise-terminal-challenge/ -name kids.jpg | mv /workspace/exercise-terminal-challenge/thecmdchallenge/funcode/kids.jpg /workspace/exercise-terminal-challenge/thecmdchallenge/funcode/images/hello/
+11- rm -dr /workspace/exercise-terminal-challenge/thecmdchallenge/small-name/
+12- find /workspace/exercise-terminal-challenge/ -name the-ultimate-joke.txt | cat /workspace/exercise-terminal-challenge/thecmdchallenge/funcode/the-most-funny/lol/the-ultimate-joke.txt
+13- cd /workspace/exercise-terminal-challenge/thecmdchallenge/boringfolder ; rm -r *
+14- vim /workspace/exercise-terminal-challenge/thecmdchallenge/kamehameha/dragon-ball-jokes.md
+15- sed -i "1d" /workspace/exercise-terminal-challenge/thecmdchallenge/kamehameha/dragon-ball-jokes.md
