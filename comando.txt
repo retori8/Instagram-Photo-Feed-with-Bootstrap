@@ -1,0 +1,6 @@
+1- cd thecmdchallenge/
+2- pwd
+3- ls-a
+4- ls-la
+5- clear
+6- 
